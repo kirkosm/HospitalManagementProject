@@ -37,12 +37,11 @@ This project is a C# solution for managing patients in a hospital environment. I
 ```
 HospitalManagementProject/     <- Root folder / GitHub repository
 │
-├─ HospitalManagementProject.sln  <- Visual Studio solution file
-├─ .gitignore
-├─ PatientTransport/                 <- Stretcher carrier app project
-│   └─ All project files (except bin/obj)
-└─ HospitalClient/             <- Hospital management app project
-    └─ All project files (except bin/obj)
+├─ HospitalManagementProject.sln 
+├─ PatientTransport/                 
+│   └─ All project files
+└─ HospitalClient/            
+    └─ All project files 
 ```
 
 ## How to Run
