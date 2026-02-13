@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../HospitalClient/HospitalClient.csproj" Id="36840ad6-c912-415b-836f-5934e8e613d2" />
+  <Project Path="../PatientTransport/PatientTransport.csproj" Id="6a355577-139a-4b77-8fc9-b08cb655bd36" />
+</Solution>
